@@ -20,6 +20,20 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+## Sobre mi
+
+- 💻 Full Stack developer
+- 🤓 Estudio,
+- 🖥 Trabajo,
+- 🛏 Duermo,
+- 🤓 Estudio,
+- 🖥 Trabajo,
+- 🛏 Duermo,
+- 🤓 Estu...
+- 🖥 Tra...
+- 🛏 Du...
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">

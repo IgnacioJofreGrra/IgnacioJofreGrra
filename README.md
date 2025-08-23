@@ -26,11 +26,11 @@
 - 🤓 Estudio,
 - 🖥 Trabajo,
 - 🛏 Duermo,
-- 🤓 Estudio,
-- 🖥 Trabajo,
-- 🛏 Duermo,
-- 🤓 Estu...
-- 🖥 Tra...
+- 🤓 Estu...,
+- 🖥 Trab...,
+- 🛏 Duer...,
+- 🤓 Es...,
+- 🖥 Tr...,
 - 🛏 Du...
 <br>
 

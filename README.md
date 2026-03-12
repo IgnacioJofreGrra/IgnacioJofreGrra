@@ -1,40 +1,41 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/ignacio-jofre-guerra/">Ignacio</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/ignacio-jofre-guerra/">Ignacio Jofré</a> 👋</h1>
+<p><strong>Full-Stack Architect | CTO | Tech Leader</strong></p>
+<p>Diseñando soluciones escalables con enfoque en arquitectura limpia y experiencia de usuario.</p>
 </div>
 
+---
 
-### 🛠 &nbsp;Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+### 🚀 Sobre mí
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+Soy un apasionado de la arquitectura de software y la ingeniería. Como **Full-Stack Architect**, me especializo en crear herramientas que resuelven problemas reales, desde la educación hasta la gestión de datos complejos.
 
-## Sobre mi
+- 🏛️ **Arquitectura:** Experto en ecosistemas React.js, Node.js y Python, con foco en escalabilidad y eficiencia.
+- 🎓 **Academia:** Estudiante de Ingeniería de Computación en la Fing (UdelaR).
+- 🎭 **Multidisciplinario:** Actor con experiencia internacional y apasionado por la carpintería DIY, el bonsái y los ecosistemas bioactivos.
+- 🛠️ **Filosofía:** "Build to last". Creo en el código bien documentado y en la gobernanza Open Source.
 
-- 💻 Full Stack developer
-- 🤓 Estudio,
-- 🖥 Trabajo,
-- 🛏 Duermo,
-- 🤓 Estu...,
-- 🖥 Trab...,
-- 🛏 Duer...,
-- 🤓 Es...,
-- 🖥 Tr...,
-- 🛏 Du...
-<br>
+---
 
-### ⚙️ &nbsp;GitHub Analytics
+### 🌟 Proyectos Destacados
+
+- **[EUTM - Examen de Ingreso](https://math.alvy.site/):** Aplicación integral para la preparación de exámenes de ingreso a la Escuela Universitaria de Tecnología Médica. Foco en rendimiento y accesibilidad. 
+  - *Repo:* [APP_Examen_de_ingreso_EUTM](https://github.com/IgnacioJofreGrra/APP_Examen_de_ingreso_EUTM)
+- **[Discrete Math Academy](https://github.com/IgnacioJofreGrra/discrete-math-academy):** Plataforma educativa interactiva optimizada para dispositivos móviles. Implementa persistencia basada en logros y una arquitectura desacoplada de contenidos.
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+| Categoría | Herramientas |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind-css) ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma) |
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/IgnacioJofreGrra">
@@ -42,3 +43,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IgnacioJofreGrra&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ignacio-jofre-guerra/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</div>

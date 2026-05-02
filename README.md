@@ -1,4 +1,6 @@
-# Ignacio Jofré Guerra
+<div align="center">
+  
+  # Ignacio Jofré Guerra
 
 **Full-Stack Developer · React · Node.js · TypeScript · WordPress · WooCommerce**  
 📍 Montevideo, Uruguay · 🟢 Disponible para trabajo remoto
@@ -73,14 +75,13 @@ Plataforma multi-país construida desde cero: monorepo Vite + React 19 + TypeScr
 ---
 
 ## 📊 GitHub Stats
-
-![Ignacio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgnacioJofreGrra&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioJofreGrra&layout=compact&theme=dark&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=IgnacioJofreGrra&theme=dark&hide_border=true)
 ---
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignacio-jofreguerra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-jofre-guerra/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cjofreguerra@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://alvy.site)
+
+</div>

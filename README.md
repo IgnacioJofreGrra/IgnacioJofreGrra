@@ -13,7 +13,7 @@
 Empecé como webmaster WordPress (plugins custom, WooCommerce, cPanel) y fui avanzando hacia arquitecturas modernas: React 19 + TypeScript strict, tRPC, Drizzle ORM, monorepos, IA generativa.
 
 Hoy trabajo como Co-fundador & CTO en **Dreamoms** y como desarrollador en **Expande Digital**, donde resolví desde migraciones de bases de datos hasta incidentes críticos de seguridad en producción.  
-Actualmente cursando **Ingeniería en Computación en FING (UdelaR)**.
+Actualmente cursando **Ingeniería en Computación en la FING (UdelaR)**.
 
 ---
 
